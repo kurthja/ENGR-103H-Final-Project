@@ -9,7 +9,7 @@ Game start: 2 second timer
 A RANDOM light lights up. If it is on the right side of the board, flip the board to the right. If it is on the left side of the board, flip the board to the left.
 If this is not completed in 2 seconds, the time expires and the board will flash red entirely and a MIDI tone will play. The game is over, flip the switch to restart the game. 
 
-After every successful response to the random event, the timer will decrease by 10 milliseconds.
+Levels: After every successful response to the random event, the timer will decrease by 10 milliseconds, increasing the response time needed (harder 'level' difficulty). 
 
 
 Key Mappings:
